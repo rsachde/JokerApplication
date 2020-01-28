@@ -1,5 +1,6 @@
 package com.springframework.jokersapp.jokerapp;
 
+import guru.springframework.norris.chuck.ChuckNorrisInfoContributor;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
